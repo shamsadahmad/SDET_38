@@ -1,6 +1,6 @@
 package TyssJave;
 
-public class First_Max_NUM_With_BubbluShot {
+public class Max_NUM_With_BubbluShot {
 
 	public static void main(String[] args) {
 

@@ -1,6 +1,6 @@
 package TyssJave;
 
-public class Shifting_the_Positio_the_Element {
+public class Shifting_the_Last_Positio_in_First_the_Element {
 
 	public static void main(String[] args) {
 
@@ -21,5 +21,4 @@ public class Shifting_the_Positio_the_Element {
 			System.out.print(a[i]+ " ");
 		}
 	}
-
 }

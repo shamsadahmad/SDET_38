@@ -2,7 +2,7 @@ package String_Programs;
 
 import java.util.LinkedHashSet;
 
-public class Duplicate_Char_in_String {
+public class Remove_Duplicate_Char_in_String {
 
 	public static void main(String[] args) {
 
@@ -20,11 +20,11 @@ public class Duplicate_Char_in_String {
 					count ++;
 				}
 			}
-				if(count==1) {
-					System.out.println(ch+" "+count);
-				}
+			if(count==1) {
+				System.out.println(ch+" "+count);
 			}
 		}
+	}
 }
 
 

@@ -2,7 +2,7 @@ package String_Programs;
 
 import java.util.LinkedHashSet;
 
-public class Remove_the_duplicates_In_String {
+public class Remove_the_duplicates_in_Character_Value {
 
 	public static void main(String[] args) {
 

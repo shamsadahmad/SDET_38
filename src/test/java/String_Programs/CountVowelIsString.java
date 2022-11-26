@@ -9,7 +9,7 @@ public class CountVowelIsString {
 		String txt = "Jamie ECommerce Info";
 		int count=0;
 		for(char ch:txt.toCharArray()) {
-			ch=Character.toLowerCase(ch);
+//			ch=Character.toLowerCase(ch);
 //			ch=Character.toUpperCase(ch);
 			
 			if(ch=='a'||ch=='e'||ch=='i'||ch=='o'||ch=='u') {

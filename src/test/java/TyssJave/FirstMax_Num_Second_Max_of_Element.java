@@ -1,6 +1,6 @@
 package TyssJave;
 
-public class Max_Num_of_Element {
+public class FirstMax_Num_Second_Max_of_Element {
 
 	public static void main(String[] args) {
 
